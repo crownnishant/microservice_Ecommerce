@@ -6,5 +6,6 @@ public enum PaymentMethod {
     DEBIT_CARD,
     PAYPAL,
     VISA,
-    MASTER_CARD
+    MASTER_CARD,
+    BITCOIN
 }
